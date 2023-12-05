@@ -1,5 +1,5 @@
-### Hi there 👋
-Hi! My name is Rafael Cestti but you can call me Rafa 🙂 Welcome to my profile!
+### Hi! 👋
+My name is Rafael Cestti but you can call me Rafa 🙂 Welcome to my profile!
 
 I am from Miami currently studying Finance at Florida International University, however I am transitioning to the tech industry and planning to get a Computer Science degree in the future.
 
