@@ -1,8 +1,5 @@
 ### Hi! 👋
-My name is Rafael Cestti but you can call me Rafa 🙂 Welcome to my profile!
-<br>
-<br>
-I am from Miami currently studying Finance at Florida International University, however I am transitioning to the tech industry and planning to get a Computer Science degree in the future.
+I'm Rafa 🙂 Welcome to my profile!
 <br>
 <br>
 Currently learning web development through resources like The Odin Project and Harvard's CS50, and in this profile you'll be able to see all my public projects. Feel free to reach out!
