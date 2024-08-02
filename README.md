@@ -2,7 +2,7 @@
 I'm Rafa 🙂 Welcome to my profile!
 <br>
 <br>
-Currently learning web development through resources like The Odin Project and Harvard's CS50, and in this profile you'll be able to see all my public projects. Feel free to reach out!
+I'm a Computer Science student and currently learning web development through resources like The Odin Project and Harvard's CS50, and in this profile you'll be able to see all my public projects. Feel free to reach out!
 <br>
 <br>
 
