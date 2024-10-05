@@ -1,6 +1,4 @@
 ### Hi! 👋
-<br>
-<br>
 I’m Rafa, a full-time Computer Science student focused on full stack web development. I have experience in technologies such as React, NodeJS, Python, SQL databases and more.
 <br>
 <br>
