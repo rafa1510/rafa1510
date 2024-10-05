@@ -2,7 +2,13 @@
 I'm Rafa 🙂 Welcome to my profile!
 <br>
 <br>
-I'm a Computer Science student and currently learning web development through resources like The Odin Project and Harvard's CS50, and in this profile you'll be able to see all my public projects. Feel free to reach out!
+Hi! I’m Rafa, a full-time Computer Science student focused on full stack web development. I have experience in technologies such as React, NodeJS, Python, SQL databases and more.
+<br>
+<br>
+My background includes working on software development projects and collaborating with other students, as well as professional experience in financial operations and customer service. For fun I like to golf, play video games, and do calisthenics!
+<br>
+<br>
+I’m actively seeking internships or software engineering positions where I can apply my skills and grow professionally. Feel free to reach out!
 <br>
 <br>
 
